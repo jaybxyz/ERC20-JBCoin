@@ -139,19 +139,20 @@ contract JBToken is StandardToken {
 
 // https://steemit.com/ethereum/@maxnachamkin/how-to-create-your-own-ethereum-token-in-an-hour-erc20-verified
 
-// Ropsten 테스트넷
+// Ropsten Testnet
 // JBCoin Contract addr : 0xf33496757ceb60f3ffcb3bd9edd17979cbf443de
 // Decimal : 18
-// Total suuply : 700 개 (70000000000000000000)
+// Total suuply : 700 (70000000000000000000)
+
 // https://ropsten.etherscan.io/tx/0x80da65899de8366a6dbf35567f8b4ce7f9c885e9bbd370ea5abecdbb967283b0
 // https://ropsten.etherscan.io/verifyContract?a=0xf33496757ceb60f3ffcb3bd9edd17979cbf443de
 
-// 메인넷에 올리기
+// Upload to Mainnet
 // JBCoin Contract addr : 0x03fda8d2b2cb20a72e1fa6ee87f7356153b7123c
 // Decimal : 18
-// Total suuply : 1000000 개 (100000000000000000000000)
-// Metamask 에 드는 ETH 비용
-// 0.005065156 Ether ($2.84)
+// Total suuply : 1000000 (100000000000000000000000)
+// Metamask : ETH Price -> 0.005065156 Ether ($2.84)
+
 // https://etherscan.io/tx/0x2d8c6a04428e42c42f1ab4877fdabf0a80578aff6f3cb67e934d0ca8edf49b97
 // https://etherscan.io/address/0x03fda8d2b2cb20a72e1fa6ee87f7356153b7123c#code
 // https://etherscan.io/verifyContract?a=0x03fda8d2b2cb20a72e1fa6ee87f7356153b7123c
